@@ -35,4 +35,4 @@ title: "Sats are the Standard"
 
 You're not buying Bitcoin, you're selling dollars. The dollar is going to zero. This is what hyperinflation looks like.
 
-When looking at the Bitcoin price, it is fun to look at how it's going up. But the above graph shows how the dollar's value is eroding agains the satoshi, the smallest unit of Bitcoin.
+When looking at the Bitcoin price, it is fun to look at how it's going up. But the above graph shows how the dollar's value is eroding against the satoshi, the smallest unit of Bitcoin.
